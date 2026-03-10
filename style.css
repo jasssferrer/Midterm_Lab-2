@@ -1,0 +1,95 @@
+html{
+    background-image: url(dach-body.gif);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+h1{
+    background-color: #FFF2D0;
+    font-family: "Jacquard 24", system-ui;
+    font-size: 150px;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+}
+
+hr{
+    border: 5px dotted #A5C89E;
+}
+
+.h1-text{
+    background-color: #FFFBF1;
+    font-family: "Dynalight", cursive;
+    font-size: 40px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+h2{
+    background-color: #FDEDED;
+    font-family: "Uncial Antiqua", system-ui;
+    font-size: 60px;
+    font-weight: 200;
+    font-style: normal;
+    text-align: center;
+}
+
+.h2-text{
+    font-family: "Dynalight", cursive;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+ul{
+    font-family: "Barriecito", system-ui;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: normal;
+    text-align: justify;
+}
+
+ol{
+    font-family: "Barriecito", system-ui;
+    font-size: 20px;
+    font-weight: 200;
+    font-style: normal;
+    text-align: justify;
+}
+
+table{
+    font-family: "Barriecito", system-ui;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+}
+
+.table-text{
+    font-family: "Dynalight", cursive;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.form-text{
+    font-family: "Dynalight", cursive;
+    font-size: 30px;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+
+.form{
+    text-align: center;
+}
+
+.form-font{
+    font-family: "Barriecito", system-ui;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+}
